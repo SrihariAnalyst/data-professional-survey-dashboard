@@ -1,4 +1,4 @@
-# Data Professional Survey Dashboard
+# Data Professional Survey Dashboard (Power BI)
 
 This project presents a visual breakdown of survey results from **630 data professionals** across multiple countries.  
 The dashboard highlights key insights into demographics, salaries, job satisfaction, and entry barriers in the data field.
